@@ -1,4 +1,4 @@
-﻿# Turkish-Word-Finder
+﻿# Turkish Word Finder
 
   Firstly, I created a list that contains all Turkish words. The algorithm takes user input which are letters then put them into letter_list. After that, with the help of itertools module it finds the all permutations of letter_list's elements and put the output into founded_list.
 
